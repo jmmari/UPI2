@@ -1,5 +1,6 @@
 # UPI2
 
+UPF PDF Image Inserter
 Simple PDF image inserter for Windows.
 
 Sometimes you just want something simple and straighforward.
